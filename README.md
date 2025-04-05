@@ -45,7 +45,7 @@ The Sales Insight Dashboard includes the following key sections:
 
 ## Power BI Dashboard Link
 
-You can view the Power BI dashboard online [here](https://app.powerbi.com/links/DaMmPk68xV?ctid=168c05fc-dcc7-4aa8-ae05-6c848fe9cfac&pbi_source=linkShare).
+You can view the Power BI dashboard online [here](https://app.powerbi.com/reportEmbed?reportId=6252b010-86e1-4f3b-8df3-7ec14276750b&autoAuth=true&ctid=168c05fc-dcc7-4aa8-ae05-6c848fe9cfac).
 
 ## Conclusion
 
